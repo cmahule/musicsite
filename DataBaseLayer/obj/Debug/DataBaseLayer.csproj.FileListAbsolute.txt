@@ -27,3 +27,8 @@ D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-maste
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.dll
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+C:\Users\cmahule\Source\Repos\musicsite\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\cmahule\Source\Repos\musicsite\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\cmahule\Source\Repos\musicsite\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\cmahule\Source\Repos\musicsite\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+C:\Users\cmahule\Source\Repos\musicsite\DataBaseLayer\obj\Debug\DataBaseLayer.pdb

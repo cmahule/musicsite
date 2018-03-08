@@ -48,3 +48,11 @@ D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-maste
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\cmahule\Source\Repos\musicsite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
